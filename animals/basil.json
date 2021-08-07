@@ -1,0 +1,22 @@
+[
+  {
+    "id": "basil",
+    "name": "Basil",
+    "type": "Cat",
+    "description": "The most special kitty to ever exist.",
+    "photos": [
+      "../photos/basil1.jpeg",
+      "../photos/basil2.jpeg",
+      "../photos/basil3.jpeg",
+      "../photos/basil4.jpeg",
+      "../photos/basil5.jpeg",
+      "../photos/basil6.jpeg",
+      "../photos/basil7.jpeg",
+      "../photos/basil8.jpeg",
+      "../photos/basilclover1.JPG",
+      "../photos/basilclover2.jpeg",
+      "../photos/basilclover3.jpeg",
+      "../photos/basilclover4.jpeg"
+    ]
+  }
+]

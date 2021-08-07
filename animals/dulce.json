@@ -1,0 +1,9 @@
+[
+  {
+    "id": "dulce",
+    "name": "Dulce",
+    "type": "Cat",
+    "description": "tbd.",
+    "photos": ["../photos/dulce1.jpeg"]
+  }
+]

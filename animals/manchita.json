@@ -1,0 +1,9 @@
+[
+  {
+    "id": "manchita",
+    "name": "Manchita",
+    "type": "Cat",
+    "description": "tbd.",
+    "photos": ["../photos/basilclover3.jpeg"]
+  }
+]

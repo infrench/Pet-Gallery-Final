@@ -1,0 +1,109 @@
+[
+  {
+    "id": "basil",
+    "name": "Basil",
+    "type": "Cat",
+    "description": "The most perfect kitty ever to exist.",
+    "photos": [
+      "../photos/basil1.jpeg",
+      "../photos/basil2.jpeg",
+      "../photos/basil3.jpeg",
+      "../photos/basil4.jpeg",
+      "../photos/basil5.jpeg",
+      "../photos/basil6.jpeg",
+      "../photos/basil7.jpeg",
+      "../photos/basil8.jpeg"
+    ]
+  },
+  {
+    "id": "belle",
+    "name": "Belle",
+    "type": "Dog",
+    "description": "tbd.",
+    "photos": [
+      "../photos/belle1.jpeg",
+      "../photos/belle2.jpeg",
+      "../photos/belle3.jpeg",
+      "../photos/belle4.JPG",
+      "../photos/belle5.JPG",
+      "../photos/belle6.JPG",
+      "../photos/belle7.JPG",
+      "../photos/belle8.JPG",
+      "../photos/belle9.JPG",
+      "../photos/belle10.JPG"
+    ]
+  },
+  {
+    "id": "chorizo",
+    "name": "Chorizo",
+    "type": "Cat",
+    "description": "tbd.",
+    "photos": ["../photos/chorizo1.jpeg"]
+  },
+  {
+    "id": "clover",
+    "name": "Clover",
+    "type": "Cat",
+    "description": "tbd.",
+    "photos": [
+      "../photos/clover1.jpeg",
+      "../photos/clover2.jpeg",
+      "../photos/clover3.jpeg",
+      "../photos/clover4.jpeg",
+      "../photos/clover5.jpeg",
+      "../photos/clover6.jpeg",
+      "../photos/clover7.jpeg",
+      "../photos/clover8.jpeg",
+      "../photos/clover9.jpeg"
+    ]
+  },
+  {
+    "id": "dulce",
+    "name": "Dulce",
+    "type": "Cat",
+    "description": "tbd.",
+    "photos": ["../photos/dulce1.jpeg"]
+  },
+  {
+    "id": "flower",
+    "name": "Flower",
+    "type": "Cat",
+    "description": "tbd.",
+    "photos": [
+      "../photos/flower1.jpeg",
+      "../photos/flower2.jpeg",
+      "../photos/flower3.jpeg",
+      "../photos/flower5.jpeg"
+    ]
+  },
+  {
+    "id": "frannie",
+    "name": "Frannie",
+    "type": "Cat",
+    "description": "tbd.",
+    "photos": [
+      "../photos/franny1.jpeg",
+      "../photos/franny2.JPG",
+      "../photos/franny3.JPG",
+      "../photos/franny4.JPG",
+      "../photos/franny5.JPG",
+      "../photos/franny7.jpeg",
+      "../photos/franny8.jpeg",
+      "../photos/franny9.JPG"
+    ]
+  },
+  {
+    "id": "manchita",
+    "name": "Manchita",
+    "type": "Cat",
+    "description": "tbd.",
+    "photos": ["../photos/basilclover3.jpeg"]
+  },
+  {
+    "id": "alice",
+    "name": "Alice",
+    "type": "Cat",
+    "description": "tbd.",
+    "photos": ["../photos/alice1.jpeg", "../photos/alice2.jpeg"]
+  }
+]

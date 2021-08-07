@@ -1,0 +1,20 @@
+[
+  {
+    "id": "belle",
+    "name": "Belle",
+    "type": "Dog",
+    "description": "tbd.",
+    "photos": [
+      "../photos/belle1.jpeg",
+      "../photos/belle2.jpeg",
+      "../photos/belle3.jpeg",
+      "../photos/belle4.JPG",
+      "../photos/belle5.JPG",
+      "../photos/belle6.JPG",
+      "../photos/belle7.JPG",
+      "../photos/belle8.JPG",
+      "../photos/belle9.JPG",
+      "../photos/belle10.JPG"
+    ]
+  }
+]

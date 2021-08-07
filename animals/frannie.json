@@ -1,0 +1,19 @@
+[
+  {
+    "id": "frannie",
+    "name": "Frannie",
+    "type": "Cat",
+    "description": "tbd.",
+    "photos": [
+      "../photos/franny1.jpeg",
+      "../photos/franny2.JPG",
+      "../photos/franny3.JPG",
+      "../photos/franny4.JPG",
+      "../photos/franny5.JPG",
+      "../photos/franny6.jpeg",
+      "../photos/franny7.jpeg",
+      "../photos/franny8.jpeg",
+      "../photos/franny9.JPG"
+    ]
+  }
+]

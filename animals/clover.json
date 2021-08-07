@@ -1,0 +1,23 @@
+[
+  {
+    "id": "clover",
+    "name": "Clover",
+    "type": "Cat",
+    "description": "Squishiest bean",
+    "photos": [
+      "../photos/clover1.jpeg",
+      "../photos/clover2.jpeg",
+      "../photos/clover3.jpeg",
+      "../photos/clover4.jpeg",
+      "../photos/clover5.jpeg",
+      "../photos/clover6.jpeg",
+      "../photos/clover7.jpeg",
+      "../photos/clover8.jpeg",
+      "../photos/clover9.jpeg",
+      "../photos/basilclover1.JPG",
+      "../photos/basilclover2.jpeg",
+      "../photos/basilclover3.jpeg",
+      "../photos/basilclover4.jpeg"
+    ]
+  }
+]

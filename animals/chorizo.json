@@ -1,0 +1,9 @@
+[
+  {
+    "id": "chorizo",
+    "name": "Chorizo",
+    "type": "Cat",
+    "description": "tbd.",
+    "photos": ["../photos/chorizo1.jpeg"]
+  }
+]

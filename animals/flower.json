@@ -1,0 +1,14 @@
+[
+  {
+    "id": "flower",
+    "name": "Flower",
+    "type": "Cat",
+    "description": "tbd.",
+    "photos": [
+      "../photos/flower1.jpeg",
+      "../photos/flower4.jpeg",
+      "../photos/flower2.jpeg",
+      "../photos/flower3.jpeg"
+    ]
+  }
+]
