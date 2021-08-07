@@ -5,13 +5,13 @@ const Home = () => {
   const [animals, setAnimal] = useState("");
 
   useEffect(() => {
-    console.log("in use effect")
+    console.log("in use effect");
     if (!animals) {
-      console.log("in if statement")
+      console.log("in if statement");
       fetch("/animals/all")
         .then((res) => res.json())
         .then((animalColl) => {
-          console.log("in fetch")
+          console.log("in fetch");
           setAnimal(animalColl);
         });
     }
@@ -19,7 +19,9 @@ const Home = () => {
   console.log(animals);
   return (
     <div>
-      <h1 className="title">Critters of our life</h1>
+      <div className="title-wrapper">
+        <h1 className="title">Critters in our Lives</h1>
+      </div>
       <div className="animal-links">
         {animals ? (
           animals.map((animal, index) => (

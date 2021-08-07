@@ -49,10 +49,16 @@ a{
   position: absolute;
   margin: 0;
 }
+
+.title-wrapper {
+  display: flex;
+  justify-content: center;
+}
 .title {
   text-align: center;
   color: #52734D;
-  margin-bottom: 40px;
+  margin-bottom: 25px;
+  max-width: 50vw;
 }
 .title p{
   color: rgb(92, 92, 92)

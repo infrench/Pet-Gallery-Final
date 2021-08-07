@@ -14,11 +14,13 @@ const Cat = ({ animalId }) => {
   return (
     <div>
       {animal ? (
+        <div className="title-wrapper">
         <div className="title">
           <h1>{animal[0].name}</h1>
           {/* <div>
             <p>{animal[0].description}</p>
           </div> */}
+        </div>
         </div>
       ) : (
         <p></p>
